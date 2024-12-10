@@ -1,10 +1,10 @@
 {
-  "name": "StockTicker",
+  "name": "stockapp",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "hello_app.js",
+  "main": "part2.js",
   "scripts": {
-  "start": "node hello_app.js"
+  "start": "node part2.js"
 },
   "repository": {
   "type": "git",
