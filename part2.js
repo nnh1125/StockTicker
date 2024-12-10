@@ -27,7 +27,7 @@ const server = http.createServer(async (req, res) => {
 
     if (pathname === "/") {
         // Home view
-        readFile("./views/home.html", res);
+        readFile("./home.html", res);
     } else if (pathname === "/process") {
         // Process view
         const queryData = parsedUrl.query;
