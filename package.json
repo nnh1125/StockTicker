@@ -4,20 +4,20 @@
   "description": "node app ",
   "main": "part2.js",
   "scripts": {
-  "start": "node part2.js"
-},
+    "start": "node part2.js"
+  },
   "repository": {
-  "type": "git",
-  "url": ""
-},
+    "type": "git",
+    "url": ""
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
-  "url": ""
-},
-  "homepage": ""
-},
+    "url": ""
+  },
+  "homepage": "",
   "dependencies": {
     "mongodb": "^5.0.0",
     "http": "^0.0.1-security"
+  }
 }
